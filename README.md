@@ -27,3 +27,15 @@ Your project will be graded on the following items:
 * Source code for your toy (only .c, .s and .h files).
 * A README containing a description of your toy, how to compile it, how to run it, and how to use it.
 * A Makefile with appropriate rules to build and clean your toy.
+
+#
+
+#Instructions
+
+##Have dev kit to be able to run make in BASH for the msp430
+
+*Run make all in the main directory.
+*Change directories to project/toy.
+*In toy, run >$ make load.
+*Wait until exit code.
+*Enjoy.
